@@ -1,0 +1,3 @@
+Program to open a file using open() system call.
+Filename is give by user through command line parameters.
+Show error message if file is not opened properly.

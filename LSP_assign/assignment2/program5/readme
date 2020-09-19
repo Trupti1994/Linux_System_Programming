@@ -1,0 +1,4 @@
+Program to read user specified number of bytes from file, using read() system call.
+Filename and number of bytes to read are given by user through command line arguments.
+If program fails to read number of bytes specified by user show appropriate message.
+

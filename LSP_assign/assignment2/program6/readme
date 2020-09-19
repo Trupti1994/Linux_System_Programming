@@ -1,0 +1,4 @@
+Program to read whole file, using read() system call.
+File to be read is given by user through command line arguments.
+If program fails to read whole file show appropriate message.
+

@@ -1,0 +1,3 @@
+Program to open a file in user specified mode using open() system call.
+Filename and mode is given as command line parameter by the user.
+Proper error message is shown if the file was not able open in specified mode.

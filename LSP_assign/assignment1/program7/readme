@@ -1,0 +1,4 @@
+Program to read from a file using read() system call.
+Filename is give by user through command line parameters.
+Show error if file is not opened properly.
+Read first five characters from the opened file and display the characters read on STDOUT(terminal).

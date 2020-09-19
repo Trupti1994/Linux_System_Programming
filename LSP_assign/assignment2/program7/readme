@@ -1,0 +1,2 @@
+Program to write string into file using write() system call.
+Filename and string are given as command line parameters.

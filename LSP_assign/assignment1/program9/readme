@@ -1,0 +1,5 @@
+Program to write a string given as command line parameter to a file, using write() system call.
+Filename is give by user through command line parameters.
+Show error if file is not opened properly.
+Write a string into opened file and display the characters written on STDOUT(terminal).
+

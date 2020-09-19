@@ -1,0 +1,3 @@
+Program to display information about a file using stat() system call.
+Filename is given as command line parameter.
+Information displayed is filename, inode number, block size, optimal IO block size, filetype, file permissions, user ID , group ID, hard link count, access time, modification time and change status time. 

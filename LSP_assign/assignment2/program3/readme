@@ -1,0 +1,2 @@
+Program to check whether current running process have user specified permissions on the file using access() system call.
+Filename and permission are given as command line arguments.

@@ -1,0 +1,2 @@
+Program to open a file using open() system call. 
+Filename is given as command line parameter.
